@@ -1,0 +1,45 @@
+.section-one{
+    background-color: black;
+    color: white;
+    margin: 100px;
+    height: fit-content;
+}
+.section-one__title{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 0%;
+}
+.section-one__desc{
+    text-align: center;
+}
+.section-two,.section-three,.section-four,.section-five{
+    display: inline-block;
+    border: 2px solid black;
+}
+.section-two__button,.section-three__button,.section-four__button,.section-five__button{
+    background-color: black;
+    color: white;
+    
+}
+.container{
+    text-align: center;
+    margin-top: 0px;
+}
+.section-six{
+    background-color: black;
+    color: white;
+    margin: 100px;
+}
+.section-six__table{
+    display: inline-block;
+}
+.section-six__button{
+    display:inline-block;
+}
+.section-six__head{
+    text-align: center;
+}
+.table{
+    text-align: center;
+    display: inline-block;
+}
